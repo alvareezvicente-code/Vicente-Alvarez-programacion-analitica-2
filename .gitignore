@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Salidas temporales
+salidas/*
+!salidas/.gitkeep
