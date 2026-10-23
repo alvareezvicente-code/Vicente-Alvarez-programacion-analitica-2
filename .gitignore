@@ -20,3 +20,4 @@ Thumbs.db
 # Salidas temporales
 salidas/*
 !salidas/.gitkeep
+!salidas/riesgo_retorno_segmentos.html
