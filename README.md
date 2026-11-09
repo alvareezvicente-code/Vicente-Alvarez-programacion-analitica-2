@@ -43,18 +43,6 @@ programacion-analitica-2-portafolio-cine-alvarez/
     └── riesgo_retorno_segmentos.html
 ```
 
-## Cómo ejecutar el proyecto
-
-Desde una terminal abierta en la carpeta del proyecto:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook notebooks/analisis.ipynb
-```
-
-Luego se debe seleccionar el kernel de `.venv` y ejecutar todas las celdas en orden.
 
 ## Herramientas utilizadas
 
@@ -64,4 +52,4 @@ Luego se debe seleccionar el kernel de `.venv` y ejecutar todas las celdas en or
 - Plotly
 - Jupyter Notebook
 
-El código utiliza principalmente las herramientas trabajadas en Programación Analítica II y mantiene explicaciones junto a cada decisión y visualización.
+
